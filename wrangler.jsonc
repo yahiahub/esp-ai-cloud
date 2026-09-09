@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "esp-ai-cloud",
+  "main": "src/worker.py",
+  "compatibility_date": "2026-09-09",
+  "compatibility_flags": [
+    "python_workers"
+  ]
+}
